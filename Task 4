@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nithyasree Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nithyasree</h1>
+        <p>Hi! I'm Nithya, a passionate web developer creating dynamic and responsive websites.</p>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="images/profile.jpg" alt="Nithyasree">
+        <p>I specialize in front-end technologies and always aim to create user-friendly, visually appealing websites.</p>
+    </section>
+    <section id="skills">
+        <h2>Key Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>SQL</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Password Management System</h3>
+            <p>A secure platform for storing and managing user passwords. Built with strong encryption and a user-friendly interface.</p>
+        </div>
+        <div class="project">
+            <h3>Event Management System</h3>
+            <p>A web application to manage events, registrations, and schedules. Includes admin and user panels for complete control.</p>
+        </div>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download>Download Resume</a>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:vsnithyasaminathan143@gmail.com">vsnithyasaminathan143@gmail.com</a></p>
+        <p>Phone: 9176222005</p>
+    </section>
+</body>
+</html>
